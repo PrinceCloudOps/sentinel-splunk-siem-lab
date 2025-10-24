@@ -1,10 +1,10 @@
 
-## 📹 Watch the Video[![Watch the video](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
+## 📹 Watch the Video [Watch the video](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
 
 [![Watch the video](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
 
 <img width="1638" height="845" alt="thumnail" src="https://github.com/user-attachments/assets/7113476d-63b8-4009-a8e9-72dde5e44539" />
-[![Watch the video](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
+
 
 # 🎬 Splunk + Sentinel Lab
 
@@ -21,7 +21,7 @@ This project highlights end-to-end SIEM ingestion, detection, and alerting, show
 - **SIEM:** Microsoft Sentinel, Splunk  
 - **Cloud:** Azure Portal & Log Analytics  
 - **Security & Detection:** KQL, automated analytic alerts  
-- **Operating Systems:** Windows  
+- **Operating Systems:** Windows 11
 
 
 ## ⚡ Key Steps Demonstrated

@@ -32,7 +32,7 @@ The goal was to:
 | Log Management | Splunk Enterprise |
 | Cloud Platform | Microsoft Azure |
 | Data Source | Security logs, simulated events |
-| OS | Windows 10 / Azure VM |
+| OS | Windows 11 / Azure VM |
 | Scripting | KQL (Kusto Query Language) |
 
 ---

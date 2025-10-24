@@ -1,6 +1,9 @@
-## 📹 Watch the Video
-[![Watch the video](thumbnail.png)](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
 
+## 📹 Watch the Video
+
+[![Watch the video](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
+
+<img width="1638" height="845" alt="thumnail" src="https://github.com/user-attachments/assets/7113476d-63b8-4009-a8e9-72dde5e44539" />
 
 # 🎬 Splunk + Sentinel Lab
 
@@ -10,9 +13,7 @@ In Splunk, synthetic process activity (like PowerShell commands and malware-styl
 In Microsoft Sentinel, a scheduled **analytic alert** is created to detect spikes in failed sign-ins, simulating a common brute-force scenario.  
 This project highlights end-to-end SIEM ingestion, detection, and alerting, showcasing hands-on **log analysis, KQL, dashboards, and automated alert rules**.
 
-## 📹 Watch the Video
-[![Watch the video](thumbnail.png)](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
-
+---
 
 ## 🛠 Tools & Technologies
 - **SIEM:** Microsoft Sentinel, Splunk  

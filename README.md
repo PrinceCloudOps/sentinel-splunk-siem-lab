@@ -87,3 +87,11 @@ The goal was to:
 
 ## 🧰 Repository Structure
 
+---
+
+## 🧾 Commit Message Example
+> Initial project documentation with Sentinel and Splunk integration steps, screenshots, and Loom walkthrough.
+
+---
+
+

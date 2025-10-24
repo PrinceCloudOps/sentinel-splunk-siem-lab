@@ -1,8 +1,8 @@
 # sentinel-splunk-siem-lab
-## 🎬 Watch Me Build This Lab!
+## 🎬 Watch Me Build This Lab! -> [![Watch the video] ](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
 <img width="1638" height="845" alt="thumnail" src="https://github.com/user-attachments/assets/6498b370-0159-44c5-ad70-34b3c226af69" />
 
-[![Watch the video]                       )](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
+[![Watch the video] ](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
 
 
 ---

@@ -1,8 +1,9 @@
 # sentinel-splunk-siem-lab
 ## 🎬 Watch Me Build This Lab!
+<img width="1638" height="845" alt="thumnail" src="https://github.com/user-attachments/assets/6498b370-0159-44c5-ad70-34b3c226af69" />
 
-[![Watch the video]                        (https://i.imgur.com/your-thumbnail.png)](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
-<img width="2269" height="1286" alt="thumbnail" src="https://github.com/user-attachments/assets/816c88b2-64e9-4be6-ae70-777e65722017" />
+[![Watch the video]                       )](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
+
 
 ---
 

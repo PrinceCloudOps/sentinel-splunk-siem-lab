@@ -83,15 +83,4 @@ The goal was to:
 - [Splunk Security Documentation](https://docs.splunk.com/Documentation/Splunk/latest/Security/About)  
 - [KQL Query Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
 
----
-
-## 🧰 Repository Structure
-
----
-
-## 🧾 Commit Message Example
-> Initial project documentation with Sentinel and Splunk integration steps, screenshots, and Loom walkthrough.
-
----
-
 

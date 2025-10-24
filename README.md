@@ -1,5 +1,5 @@
 
-[Watch the video](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)
+[Watch the video](https://www.loom.com/share/e8405fe2157c418d934710b748976e8f)   <-- WATCH ME BUILD IT!
 
 
 
